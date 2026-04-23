@@ -26,7 +26,7 @@ printf("\n");
  float price2=1.05;
  int quantity2=20;
  char selection2='C';
- printf("worm Gummies \n");
+ printf("Worm Gummies \n");
  printf("Price=%.2f \n", price2);
  printf("Quantity Available=%d \n", quantity2);
  printf("Selection Code=%c \n", selection2);
