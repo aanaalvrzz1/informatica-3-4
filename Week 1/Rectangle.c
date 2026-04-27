@@ -3,11 +3,13 @@
 int main(void)
 
 {
-int Height;
-printf("Height of your rectangle: \n");
-scanf("%d",&Height);
-int Width;
-printf("Width of your rectangle: \n");
-scanf("%d",&Width);
-printf("your area is = %d * %d \n",Height, Width);
+int lenght;
+int width;
+printf("Enter the lenght of the rectangle"\n);
+scanf("%d",&lenght);
+printf("Enter the width of the rectangle: \n");
+scanf("%d", &width);
+int Area =lenght*width;
+int Perimeter =(lenght+width)*2
 }
+
